@@ -1,6 +1,6 @@
 name: yvensb.co
 favicon: null
-layout_spectrum: 0.8436659772414714
+layout_spectrum: 0.75216
 typography_spectrum: 0.28222180949524045
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#161616'
+    - '#141414'
+    - '#000000'
+    - '#141414'
+    - '#0e0e0e'
   brandStrength: 0.08239283156581223
   lightness: 0.44867469603195786
   saturation: 0.5595280497800559
