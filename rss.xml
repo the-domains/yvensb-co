@@ -4,7 +4,7 @@
         <description><![CDATA[yvensb.co]]></description>
         <link>https://thegrid.ai/yvensb-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 23:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 23:38:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yvensb-co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/yvensb-co/f1af475b-40a5-4af6-8bd9-99a8a9532c45/index.html</link>
             <guid isPermaLink="false">f1af475b-40a5-4af6-8bd9-99a8a9532c45</guid>
             <pubDate>Mon, 21 Dec 2015 23:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me.]]></title>
+            <description><![CDATA[<article><h1>About me.</h1><p>Welcome to YvensB Photo. This is me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd05ef43bfae9c1a292c81059da3b60656af525.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yvensb-co/about-me/index.html</link>
+            <guid isPermaLink="false">90e77280-6e38-4ef6-a6be-b9da7cf8d38c</guid>
+            <pubDate>Mon, 21 Dec 2015 23:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
