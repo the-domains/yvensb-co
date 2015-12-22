@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Test to see how text work and all.
-datePublished: '2015-12-22T00:11:04.770Z'
-dateModified: '2015-12-22T00:10:54.905Z'
+datePublished: '2015-12-22T00:33:11.447Z'
+dateModified: '2015-12-22T00:32:20.451Z'
 title: Logo Page Test
 author: []
+sourcePath: _posts/2015-12-22-logo-page-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-logo-page-test.md
-published: true
 _type: Blurb
 
 ---
