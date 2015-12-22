@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Maternity Photography
-datePublished: '2015-12-22T01:53:12.126Z'
-dateModified: '2015-12-22T01:52:01.714Z'
+datePublished: '2015-12-22T01:59:30.272Z'
+dateModified: '2015-12-22T01:58:09.505Z'
 title: Maternity
 author: []
 sourcePath: _posts/2015-12-22-page-test-2-adding-a-page-to-the-homepage.md
