@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Maternity Photography - Post Details Page Description
-datePublished: '2015-12-22T01:39:59.315Z'
-dateModified: '2015-12-22T01:39:18.132Z'
+description: Maternity Photography
+datePublished: '2015-12-22T01:53:12.126Z'
+dateModified: '2015-12-22T01:52:01.714Z'
 title: Maternity
 author: []
 sourcePath: _posts/2015-12-22-page-test-2-adding-a-page-to-the-homepage.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Maternity
 
-> Capture a forming bond between a mother and her child
+"Capture a forming bond between a mother and her child"
 
 Pro an summo omnium gubergren, at mei aeque periculis. Te quo quodsi quaestio splendide, id stet consul maluisset nec. Brute graece persequeris at vix, sea vocent dolorem philosophia te. Nec iudico blandit te, ex has dolorem adipiscing, eos te graecis civibus disputando. Mei purto cibo mutat ea. Cibo impetus liberavisse ne sed.
 Cu detracto adolescens sea. At everti definitiones his, has facer mucius in. Sit quando eleifend eu, sale graeco phaedrum ne est, mollis doctus deserunt nec ut. Et quo stet quas lobortis, mei ut adhuc inermis repudiandae. Probo accusamus iracundia ex sed, iusto iriure dignissim ei pri, at malorum detraxit mei.
