@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Test to see how text work and all.
-datePublished: '2015-12-22T00:34:03.919Z'
-dateModified: '2015-12-22T00:33:59.116Z'
-title: Logo Page Test
+datePublished: '2015-12-22T01:26:31.373Z'
+dateModified: '2015-12-22T01:26:16.710Z'
+title: Welcome
 author: []
 sourcePath: _posts/2015-12-22-logo-page-test.md
 published: true
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Welcome to YvensB Photo. This is me.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c585001a-11f3-448f-a587-38a64a81fbf9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b2b05ac859d2d100ea0bec75a803fb4451bf8cf.png)
