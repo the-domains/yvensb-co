@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maternity Photography - Post Details Page Description
-datePublished: '2015-12-22T01:15:05.420Z'
-dateModified: '2015-12-22T01:14:52.800Z'
+datePublished: '2015-12-22T01:20:49.438Z'
+dateModified: '2015-12-22T01:20:41.308Z'
 title: Maternity - Test
 author: []
 sourcePath: _posts/2015-12-22-page-test-2-adding-a-page-to-the-homepage.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Maternity - Test
 
-> Maternity Title
+> Maternity Test 2
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6a4651cbd2bec18af0500775dbffe7939de8f1b.jpg)
 
