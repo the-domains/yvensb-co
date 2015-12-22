@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Test to see how text work and all.
-datePublished: '2015-12-22T01:26:31.373Z'
-dateModified: '2015-12-22T01:26:16.710Z'
+description: Welcome to YvensB Photo
+datePublished: '2015-12-22T01:35:40.649Z'
+dateModified: '2015-12-22T01:35:33.923Z'
 title: Welcome
 author: []
 sourcePath: _posts/2015-12-22-logo-page-test.md
@@ -22,5 +22,4 @@ url: logo-page-test/index.html
 _type: Article
 
 ---
-Welcome to YvensB Photo. This is me.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b2b05ac859d2d100ea0bec75a803fb4451bf8cf.png)
+Welcome to YvensB Photo. This page is to test out the feature of this wesbite. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c30566c1735b88c1ee2aa7dfb485ec1360f2c9e.png)
