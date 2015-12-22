@@ -1,7 +1,7 @@
 name: yvensb.co
 favicon: null
-layout_spectrum: 0.75216
-typography_spectrum: 0.28222180949524045
+layout_spectrum: 0.00241
+typography_spectrum: 0.24851
 title: YvensB Photo
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#141414'
     - '#0e0e0e'
-  brandStrength: 0.08239283156581223
-  lightness: 0.44867469603195786
-  saturation: 0.5595280497800559
-  rhythmicContrast: 0.316941229859367
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
