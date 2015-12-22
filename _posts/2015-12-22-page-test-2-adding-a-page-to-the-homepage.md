@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maternity Photography - Post Details Page Description
-datePublished: '2015-12-22T01:13:23.479Z'
-dateModified: '2015-12-22T01:13:15.992Z'
-title: Maternity - Main Title
+datePublished: '2015-12-22T01:15:05.420Z'
+dateModified: '2015-12-22T01:14:52.800Z'
+title: Maternity - Test
 author: []
 sourcePath: _posts/2015-12-22-page-test-2-adding-a-page-to-the-homepage.md
 published: true
@@ -22,7 +22,7 @@ url: page-test-2-adding-a-page-to-the-homepage/index.html
 _type: Article
 
 ---
-# Maternity - Main Title
+# Maternity - Test
 
 > Maternity Title
 
