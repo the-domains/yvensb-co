@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Test to see how text work and all.
-datePublished: '2015-12-22T00:33:11.447Z'
-dateModified: '2015-12-22T00:32:20.451Z'
+datePublished: '2015-12-22T00:34:03.919Z'
+dateModified: '2015-12-22T00:33:59.116Z'
 title: Logo Page Test
 author: []
 sourcePath: _posts/2015-12-22-logo-page-test.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: logo-page-test/index.html
+_type: Article
 
 ---
 Welcome to YvensB Photo. This is me.
