@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YvensB Photo]]></title>
+        <description><![CDATA[YvensB Photo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 21:00:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<article><h1>Music</h1><p>The single is close
+to be done. The engineer is fine tuning every instrument, vocal track and sound
+effect. There is a whole lot of buzz and excitement about your new launch. Your
+fans are waiting to hear your new sound.</p></article>]]></description>
+            <link>undefinedmusic/index.html</link>
+            <guid isPermaLink="false">04efa24e-db07-4838-a3fd-624c3e090686</guid>
+            <pubDate>Wed, 27 Jan 2016 21:00:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
