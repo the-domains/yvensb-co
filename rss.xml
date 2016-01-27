@@ -2,17 +2,27 @@
     <channel>
         <title><![CDATA[YvensB Photo]]></title>
         <description><![CDATA[YvensB Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yvensb-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 21:00:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 21:00:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yvensb-co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fitness]]></title>
+            <description><![CDATA[<article><h1>Fitness</h1><p>You worked hard for
+years for those results. You trained when you didn’t feel like it. You dieted
+when people were feasting. You counted your macros when your friends ate their
+fill. It’s a lonely sport but a worthwhile one.</p></article>]]></description>
+            <link>https://thegrid.ai/yvensb-co/fitness/index.html</link>
+            <guid isPermaLink="false">1038e299-a312-4bb8-bcfd-b0116216f552</guid>
+            <pubDate>Wed, 27 Jan 2016 21:00:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Music]]></title>
             <description><![CDATA[<article><h1>Music</h1><p>The single is close
 to be done. The engineer is fine tuning every instrument, vocal track and sound
 effect. There is a whole lot of buzz and excitement about your new launch. Your
 fans are waiting to hear your new sound.</p></article>]]></description>
-            <link>undefinedmusic/index.html</link>
+            <link>https://thegrid.ai/yvensb-co/music/index.html</link>
             <guid isPermaLink="false">04efa24e-db07-4838-a3fd-624c3e090686</guid>
             <pubDate>Wed, 27 Jan 2016 21:00:40 GMT</pubDate>
         </item>
